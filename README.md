@@ -1,4 +1,4 @@
-# GDPR-Claim-Templates
+# GDPR Data Subject Claim Templates
 Consumer templates to exercise GDPR rights.
 
 # What is GDPR?
