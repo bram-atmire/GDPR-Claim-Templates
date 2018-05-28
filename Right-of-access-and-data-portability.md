@@ -6,6 +6,7 @@ I would like to exercise my GDPR right to access information. I am a data subjec
 
 Please provide me with:
 * confirmation that you are processing my data and that you assume either the GPDR data controller or data processor role for this data
+* the lawful basis that you are using for processing my data
 * access to the personal data you hold of me
 * supplementary information on how my data was processed and stored.
 
