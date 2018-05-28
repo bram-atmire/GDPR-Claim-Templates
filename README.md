@@ -5,6 +5,10 @@ Consumer templates to exercise GDPR rights.
 
 https://ec.europa.eu/info/law/law-topic/data-protection_en
 
+# Why these templates?
+
+An exercise to know how to execute your rights, and for businesses to learn what to expect.
+
 # Sources
 
 Strongly based on information found on:
