@@ -17,3 +17,7 @@ https://www.wrighthassall.co.uk/knowledge/legal-articles/2017/11/21/gdpr-individ
 # Please contribute!
 
 Please send pull requests for any relevant changes. In your pull request, or its commentary, please provide a reference that justifies that it is related to the actual right attributed to the data subjects in GDPR.
+
+# Templates in other languages
+
+German https://www.heise.de/ct/ausgabe/2018-5-Die-DSGVO-bringt-den-Buergern-neue-Rechte-3965940.html#zsdb-article-links
