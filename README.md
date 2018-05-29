@@ -21,3 +21,8 @@ Please send pull requests for any relevant changes. In your pull request, or its
 # Templates in other languages
 
 German https://www.heise.de/ct/ausgabe/2018-5-Die-DSGVO-bringt-den-Buergern-neue-Rechte-3965940.html#zsdb-article-links
+
+# Related resources
+
+https://www.linkedin.com/pulse/nightmare-letter-subject-access-request-under-gdpr-karbaliotis/
+https://jacquesmattheij.com/so-your-start-up-receive-the-nightmare-gdpr-letter
